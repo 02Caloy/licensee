@@ -1,7 +1,7 @@
-version: "2"
+version: "10"
 plugins:
   rubocop:
     enabled: true
-    channel: rubocop-0-63
+    channel
   shellcheck:
     enabled: true
